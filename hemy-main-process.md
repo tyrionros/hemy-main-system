@@ -4,12 +4,12 @@ A compehensive guide to documenting your processes in Hemy, this is called the "
 In every process that you create in Dynamics365 such as Business Process Flows, it must follow the "Hemy Main System".
 
 Parts of the "Hemy Main System" are below with its hash-tag processes:
-#0 - Should it be done? - This is a decision step before going through all the processes.
-#1 - Planning and Preparation - This is part of the process which involves planning and preparation of things to be done.
-#2 - Execute the Task - this is the execution part of what was planned and prepared.
-#3 - Finish Up/Completion - this is the usual part of the process where you have done the needed tasks.
-#4 - Invoicing - since with the "Hemy Main System", everything is ideally invoiceable to clients or customers but not everything so you only choose this part in a yes or no answerable questions.
-#5 - Everything is Finished - this is the part where everything in the tasks or project or process is completely done including the tasks, sub-tasks, invoicing etc.
+- #0 - Should it be done? - This is a decision step before going through all the processes.
+- #1 - Planning and Preparation - This is part of the process which involves planning and preparation of things to be done.
+- #2 - Execute the Task - this is the execution part of what was planned and prepared.
+- #3 - Finish Up/Completion - this is the usual part of the process where you have done the needed tasks.
+- #4 - Invoicing - since with the "Hemy Main System", everything is ideally invoiceable to clients or customers but not everything so you only choose this part in a yes or no answerable questions.
+- #5 - Everything is Finished - this is the part where everything in the tasks or project or process is completely done including the tasks, sub-tasks, invoicing etc.
 
 Below are the purpose and goal of each part:
 
